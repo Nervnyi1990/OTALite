@@ -20,4 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Cancelar</string>
+  <string name="ok">Aceptar</string>
+  <string name="delete">Borrar</string>
+  <string name="back">Volver</string>
+  <string name="help">Axuda</string>
+  <string name="loading">Cargando&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Descargar</string>
+  <string name="install">Instalar</string>
+  <string name="downloading">Descargando&#8230;</string>
+  <string name="rebooting">Reiniciando&#8230;</string>
+  <string name="information">Información</string>
+  <string name="update_available">Actualización de ROM dispoñibel</string>
+  <string name="ignore">Ignorar</string>
+  <string name="donate">Doar</string>
+  <string name="finished">Rematado</string>
+  <string name="settings">Axustes</string>
+  <string name="done">Feito</string>
+  <string name="delete_confirm">Estás seguro de que queres borrar o ficheiro?</string>
 </resources>

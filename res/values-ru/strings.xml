@@ -29,7 +29,7 @@
   <string name="filename_separator">-</string>
   <string name="download">Скачать</string>
   <string name="install">Установить</string>
-  <string name="downloading">Скачивание&#8230;</string>
+  <string name="downloading">Идёт загрузка&#8230;</string>
   <string name="rebooting">Перезагрузка&#8230;</string>
   <string name="information">Информация</string>
   <string name="update_available">Доступно обновление</string>
@@ -38,4 +38,5 @@
   <string name="finished">Завершено</string>
   <string name="settings">Настройки</string>
   <string name="done">Готово</string>
+  <string name="delete_confirm">Вы уверены, что хотите удалить этот файл?</string>
 </resources>

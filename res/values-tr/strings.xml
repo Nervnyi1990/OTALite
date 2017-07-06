@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">İptal</string>
   <string name="ok">TAMAM</string>
+  <string name="delete">Sil</string>
+  <string name="back">Geri</string>
+  <string name="help">Yardım</string>
+  <string name="loading">Yükleniyor&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">İndir</string>
+  <string name="install">Yükle</string>
+  <string name="downloading">İndiriliyor&#8230;</string>
+  <string name="rebooting">Yeniden Başlatılıyor</string>
+  <string name="information">Bilgi</string>
+  <string name="update_available">Güncelleme mevcut</string>
+  <string name="ignore">Yoksay</string>
+  <string name="donate">Bağış Yapın</string>
+  <string name="finished">Tamamlandı</string>
+  <string name="settings">Ayarlar</string>
+  <string name="done">Bitti</string>
+  <string name="delete_confirm">Bu dosyayı silmek istediğinize emin misiniz?</string>
 </resources>

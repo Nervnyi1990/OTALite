@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
-  <string name="ok">Αποδοχή</string>
+  <string name="cancel">Ακύρωση</string>
+  <string name="ok">ΟΚ</string>
+  <string name="delete">Διαγραφή</string>
+  <string name="back">Επιστροφή</string>
+  <string name="help">Βοήθεια</string>
+  <string name="loading">Φόρτωση…</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Λήψη</string>
+  <string name="install">Εγκατάσταση</string>
+  <string name="downloading">Πραγματοποιείται λήψη...</string>
+  <string name="rebooting">Πραγματοποιείται επανεκκίνηση...</string>
+  <string name="information">Πληροφορίες</string>
+  <string name="update_available">Είναι διαθέσιμη μια ενημερωμένη έκδοση της ROM</string>
+  <string name="ignore">Παράλειψη</string>
+  <string name="donate">Κάντε δωρεά</string>
+  <string name="finished">Ολοκληρώθηκε</string>
+  <string name="settings">Ρυθμίσεις</string>
+  <string name="done">Έτοιμο</string>
+  <string name="delete_confirm">Είστε βέβαιοι ότι επιθυμείτε τη διαγραφή αυτού του αρχείου;</string>
 </resources>

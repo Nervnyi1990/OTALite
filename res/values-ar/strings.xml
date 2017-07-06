@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">إلغاء</string>
   <string name="ok">حسناً</string>
+  <string name="delete">حذف</string>
+  <string name="back">رجوع</string>
+  <string name="help">المساعدة</string>
+  <string name="loading">جارٍ التحميل&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">تنزيل</string>
+  <string name="install">تثبيت</string>
+  <string name="downloading">جارٍ التحميل&#8230;</string>
+  <string name="rebooting">جارٍ إعادة التشغيل &#8230;</string>
+  <string name="information">معلومات</string>
+  <string name="update_available">توفر تحديث ROM</string>
+  <string name="ignore">تجاهل</string>
+  <string name="donate">تبرع</string>
+  <string name="finished">تم</string>
+  <string name="settings">الإعدادت</string>
+  <string name="done">تم</string>
+  <string name="delete_confirm">هل ترغب فعلا بحذف هذا الملف؟</string>
 </resources>

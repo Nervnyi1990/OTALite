@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Zrušit</string>
   <string name="ok">OK</string>
+  <string name="delete">Smazat</string>
+  <string name="back">Zpět</string>
+  <string name="help">Nápověda</string>
+  <string name="loading">Načítání&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Stahování</string>
+  <string name="install">Instalace</string>
+  <string name="downloading">Stahování&#8230;</string>
+  <string name="rebooting">Restartování&#8230;</string>
+  <string name="information">Informace</string>
+  <string name="update_available">Aktualizace ROM je k dispozici</string>
+  <string name="ignore">Ignorovat</string>
+  <string name="donate">Darovat</string>
+  <string name="finished">Dokončeno</string>
+  <string name="settings">Nastavení</string>
+  <string name="done">Hotovo</string>
+  <string name="delete_confirm">Opravdu chcete smazat stahování?</string>
 </resources>

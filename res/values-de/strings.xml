@@ -33,4 +33,10 @@
   <string name="rebooting">Wird neu gestartet&#8230;</string>
   <string name="information">Informationen</string>
   <string name="update_available">ROM-Aktualisierung verfügbar</string>
+  <string name="ignore">Ignorieren</string>
+  <string name="donate">Spenden</string>
+  <string name="finished">Fertiggestellt</string>
+  <string name="settings">Einstellungen</string>
+  <string name="done">Fertig</string>
+  <string name="delete_confirm">Möchten Sie diese Datei wirklich löschen?</string>
 </resources>

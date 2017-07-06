@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Mégse</string>
   <string name="ok">OK</string>
+  <string name="delete">Törlés</string>
+  <string name="back">Vissza</string>
+  <string name="help">Súgó</string>
+  <string name="loading">Betöltés&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Letöltés</string>
+  <string name="install">Telepítés</string>
+  <string name="downloading">Letöltés&#8230;</string>
+  <string name="rebooting">Újraindulás&#8230;</string>
+  <string name="information">Információ</string>
+  <string name="update_available">Frissítés elérhető</string>
+  <string name="ignore">Mellőz</string>
+  <string name="donate">Adományozás</string>
+  <string name="finished">Befejezve</string>
+  <string name="settings">Beállitások</string>
+  <string name="done">Kész</string>
+  <string name="delete_confirm">Biztos, hogy törölni akarod ezt a fájlt?</string>
 </resources>
