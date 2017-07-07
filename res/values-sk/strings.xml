@@ -38,4 +38,5 @@
   <string name="finished">Dokončené</string>
   <string name="settings">Nastavenia</string>
   <string name="done">Hotovo</string>
+  <string name="delete_confirm">Naozaj chcete odstrániť tento súbor?</string>
 </resources>

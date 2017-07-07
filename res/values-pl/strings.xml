@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Anuluj</string>
   <string name="ok">OK</string>
+  <string name="delete">Usuń</string>
+  <string name="back">Wstecz</string>
+  <string name="help">Pomoc</string>
+  <string name="loading">Wczytywanie&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Pobieranie</string>
+  <string name="install">Instaluj</string>
+  <string name="downloading">Pobieranie&#8230;</string>
+  <string name="rebooting">Ponowne uruchomienie&#8230;</string>
+  <string name="information">Informacje</string>
+  <string name="update_available">Dostępna aktualizacja ROM-u</string>
+  <string name="ignore">Ignoruj</string>
+  <string name="donate">Wesprzyj</string>
+  <string name="finished">Zakończono</string>
+  <string name="settings">Ustawienia</string>
+  <string name="done">Gotowe</string>
+  <string name="delete_confirm">Czy na pewno chcesz usunąć ten plik?</string>
 </resources>
