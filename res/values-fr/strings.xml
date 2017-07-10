@@ -27,7 +27,7 @@
   <string name="help">Aide</string>
   <string name="loading">Chargement&#8230;</string>
   <string name="filename_separator">-</string>
-  <string name="download">Téléchargements</string>
+  <string name="download">Télécharger</string>
   <string name="install">Installer</string>
   <string name="downloading">Téléchargement en cours&#8230;</string>
   <string name="rebooting">Redémarrage&#8230;</string>
@@ -37,6 +37,6 @@
   <string name="donate">Faire un Don</string>
   <string name="finished">Terminé</string>
   <string name="settings">Paramètres</string>
-  <string name="done">Terminé</string>
+  <string name="done">Prêt</string>
   <string name="delete_confirm">Êtes-vous sûr de vouloir supprimer ce fichier ?</string>
 </resources>

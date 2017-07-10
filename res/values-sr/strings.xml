@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Откажи</string>
   <string name="ok">У реду</string>
+  <string name="delete">Избриши</string>
+  <string name="back">Назад</string>
+  <string name="help">Помоћ</string>
+  <string name="loading">Учитавање &#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Преузми</string>
+  <string name="install">Инсталирај</string>
+  <string name="downloading">Преузимање &#8230;</string>
+  <string name="rebooting">Поновно покретање&#8230;</string>
+  <string name="information">Информација</string>
+  <string name="update_available">Доступно ажурирање</string>
+  <string name="ignore">Занемари</string>
+  <string name="donate">Донирај</string>
+  <string name="finished">Завршено</string>
+  <string name="settings">Подешавања</string>
+  <string name="done">Готово</string>
+  <string name="delete_confirm">Да ли сте сигурни да желите да избришете ову датотеку?</string>
 </resources>

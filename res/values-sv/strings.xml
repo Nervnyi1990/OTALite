@@ -20,5 +20,20 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Avbryt</string>
   <string name="ok">OK</string>
+  <string name="delete">Ta bort</string>
+  <string name="back">Tillbaka</string>
+  <string name="help">Hjälp</string>
+  <string name="loading">Laddar&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Ladda ner</string>
+  <string name="install">Installera</string>
+  <string name="information">Information</string>
+  <string name="update_available">ROM-uppdatering tillgänglig</string>
+  <string name="ignore">Ignorera</string>
+  <string name="donate">Donera</string>
+  <string name="finished">Avslutad</string>
+  <string name="settings">Inställningar</string>
+  <string name="done">Klar</string>
 </resources>
