@@ -20,5 +20,23 @@
   <!-- DO NOT TRANSLATE THE ITEMS MARKED "translatable="false" -->
   <!-- App Strings -->
   <!-- Generic strings -->
+  <string name="cancel">Huỷ bỏ</string>
   <string name="ok">Đồng ý</string>
+  <string name="delete">Xoá</string>
+  <string name="back">Quay lại</string>
+  <string name="help">Giúp đỡ</string>
+  <string name="loading">Đang tải&#8230;</string>
+  <string name="filename_separator">-</string>
+  <string name="download">Tải xuống</string>
+  <string name="install">Cài đặt</string>
+  <string name="downloading">Đang tải xuống&#8230;</string>
+  <string name="rebooting">Đang khởi động lại&#8230;</string>
+  <string name="information">Thông tin</string>
+  <string name="update_available">Có bản cập nhật ROM mới</string>
+  <string name="ignore">Bỏ qua</string>
+  <string name="donate">Ủng hộ</string>
+  <string name="finished">Đã kết thúc</string>
+  <string name="settings">Cài đặt</string>
+  <string name="done">Đã hoàn thành</string>
+  <string name="delete_confirm">Bạn chắc muốn xoá tập tin này?</string>
 </resources>
