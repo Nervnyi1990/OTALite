@@ -7,7 +7,7 @@ If you want to, you can host the ROM zip and ota.xml manifest yourself! You can 
 - Build this app (include to device.mk)
 ``` MAKEFILE
 PRODUCT_PACKAGES += \
-    AEXOTA \
+    LITEOTA \
     libbypass
 ```
 #### Create an ota.xml
@@ -88,7 +88,7 @@ You should format it like this:
             <updated-at>2014-12-24</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>9001027</size> <!-- filesize in bytes -->
             <download-link>
-            http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/addon1.zip
+            http://addon1.zip
             </download-link>
         </addon>
         <addon>
@@ -98,7 +98,7 @@ You should format it like this:
             <updated-at>2014-10-14</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>5427814</size> <!-- filesize in bytes -->
             <download-link>
-            http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/addon2.zip
+            http://geehrc/addon2.zip
             </download-link>
         </addon>
     </addons>
@@ -122,7 +122,7 @@ At the bottom of your build.prop, add the following values editing them to suit 
 
 ``` MAKEFILE
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.ota.romname=AospExtended-ROM \
+    ro.ota.romname=LiteMod-ROM \
     ro.ota.version=$(shell date +"%Y%m%d") \
     ro.ota.manifest=http://xyyx-dev.ru/nitrogen-os/nougat/geehrc/ota.xml
 ```
